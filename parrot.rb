@@ -4,3 +4,5 @@
 def parrot (sound="Squak!")
   puts sound
 end
+
+parrot
