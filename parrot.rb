@@ -8,6 +8,4 @@ end
 
 phrase = parrot
 
-phrase
-
 
