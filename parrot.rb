@@ -2,8 +2,4 @@
 # returns the phrase
 
 
-def parrot (phrase="Squawk!")
-  return phrase
-end
-
-parrot
+parrot = 
