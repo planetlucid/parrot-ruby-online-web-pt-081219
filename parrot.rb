@@ -2,4 +2,4 @@
 # returns the phrase
 
 
-parrot = 
+parrot = "Squawk!"
